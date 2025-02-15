@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Veronica, a tech recruiter for software companies. I used to help run a javascript meetup and that's when I decided to start my github account 2 years ago. I still don't know what i'm doing.
+- 👋 Hi, I’m V, a tech recruiter for software companies.
 - 👀 I’m interested in maybe recruiting you, but mostly to build stuff to make my job as a recruiter easier. I'm taking inspiration from Sourcers Who Code Fbook group and Sourcing_IRL on tiktok 
-- I’m currently learning python and basic web development - i've gotten as far as making a table with basic css by watching Colt Steele lol
-- 📫 How to reach me ...linkedin: https://www.linkedin.com/in/veronicabueno/ 
+- Currently learning Reactjs
 
 <!---
 vernbueno/vernbueno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
